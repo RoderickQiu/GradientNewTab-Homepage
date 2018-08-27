@@ -14,4 +14,5 @@ It's worth trying it!
 ### Acknowledgements
 - Thanks to [uiGradients](https://uigradients.com), where some of the gradients were from this site.
 - Thanks to [Github](https://github.com), where this site is hosted.
-### Enjoy it!
+
+## Enjoy it!
